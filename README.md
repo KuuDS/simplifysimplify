@@ -7,8 +7,8 @@
 <table>
 <tr><td align="center"><strong>simplifysimplify-dark</strong></td><td align="center"><strong>simplifysimplify-light</strong></td></tr>
 <tr>
-<td><img src="/img/screenshot-simplifysimplify-dark.png" alt="screenshot of the simplifysimplify-dark vim theme" width="270" /></td>
-<td align="center"><img src="/img/screenshot-simplifysimplify-light.png" alt="screenshot of the simplifysimplify-light vim theme" width="270" /></td>
+<td><img src="/img/screenshot-simplifysimplify-dark.png" alt="screenshot of the simplifysimplify-dark vim theme" width="282" /></td>
+<td align="center"><img src="/img/screenshot-simplifysimplify-light.png" alt="screenshot of the simplifysimplify-light vim theme" width="282" /></td>
 </tr>
 </table>
 
