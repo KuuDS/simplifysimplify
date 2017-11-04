@@ -1,3 +1,11 @@
+**This repository has been superseded by [vimspectr](https://github.com/nightsense/vimspectr).**
+
+.
+
+.
+
+.
+
 <h1 id="simplifysimplify">simplifysimplify</h1>
 
 <p>A vim theme with a plain grey interface; only alerts/syntax use colour.</p>
